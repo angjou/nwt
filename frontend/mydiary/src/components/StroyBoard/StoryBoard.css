@@ -1,0 +1,6 @@
+.story_board{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: -webkit-center;
+}
